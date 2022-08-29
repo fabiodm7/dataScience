@@ -1,0 +1,23 @@
+{% extends "blogs/base.html" %}
+{% load bootstrap3 %}
+
+{% block header %}
+<h1>Editar publicação</h1>
+{% endblock header %}
+
+{% block content %}
+
+<h3>
+    Data da publicação: <b href="{% url 'blogs:edit_post' blogpost.id %}">{{ blogpost.date_added }}</b>
+</h3>
+
+<form action="{% url 'blogs:edit_post' blogpost.id %}" method="post">
+    {% csrf_token %}
+    {% bootstrap_form form %}
+
+    {% buttons %}
+    <button name="submit">Salvar edições</button>
+    {% endbuttons %}
+</form>
+
+{% endblock content %}

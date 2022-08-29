@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pizzaria</title>
+    </head>
+    <body>
+        <p>
+            <a href="{% url 'pizzarias:index' %}">Pizzaria</a> | 
+            <a href="{% url 'pizzarias:menu' %}">Menu</a>
+        </p>
+        {% block content%}{% endblock content%}
+    </body>
+</html>

@@ -1,0 +1,41 @@
+{% extends "blogs/base.html" %}
+{% load bootstrap3%}
+
+{% block header %}
+<h1>Meu blog</h1>
+{% endblock header %}
+
+{% block content %}
+
+{% buttons %}
+<button>
+    <a href="{% url 'blogs:new_post' %}">Nova publicação</a>
+</button>
+{% endbuttons %}
+
+
+{% for blogpost in blogposts%}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>
+            {{ blogpost.title }}
+            <small>
+                Data da publicação: <b>{{ blogpost.date_added|date:'M d,Y H:i' }}</b>
+                <p>
+                    Autor: {{ blogpost.owner }}
+                </p>
+                <p>
+                    <a href="{% url 'blogs:edit_post' blogpost.id %}">Editar publicação</a>
+                </p>
+            </small>
+        </h3>
+    </div>
+    <div>
+        {{ blogpost.text|linebreaks }}
+    </div>
+</div>
+{% empty %}
+Escreva seu primeiro post!
+{% endfor %}
+
+{% endblock content %}
