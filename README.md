@@ -46,6 +46,11 @@ Foco principal: **Ciência de dados**
 |**lido**|**secao**|**seq**|**titulo**|
 |:---:|:---:|:---:|:---|
 |  |03|01|'Python e Django by Ramiro B. da Luz'|
+|  |03|02|[MDN HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)|
+|  |03|03|[MDN CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)|
+|  |03|04|[MDN JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)|
+|  |03|05|[MDN API](https://developer.mozilla.org/pt-BR/docs/Web/API)|
+|  |03|06|[MDN Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)|
 
 ## 04. Aprendizagem de máquina
 |**lido**|**secao**|**seq**|**titulo**|
