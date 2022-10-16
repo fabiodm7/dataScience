@@ -11,20 +11,20 @@ Foco principal: **Ciência de dados**
 ## 01. Básico
 |**lido**|**secao**|**seq**|**titulo**|
 |:---:|:---:|:---:|:---|
-|ok|01|01|'Storytelling com Dados by Cole Nussbaumer Knaflic [Knaflic, Cole Nussbaumer] '|
-|ok|01|02|'Curso Intensivo de Python - Eric Matthes.opf'|
-|  |01|03|'ProGit by Scott Chacon and Ben Straub'|
-|  |01|04|'Python para analise de dados - Wes McKinney'|
-|  |01|05|'Álgebra Linear Com Aplicações  by Steven J. Leon'|
-|  |01|06|'Estatística Básica  by P. A. Morettin, W. de O. Bussab'|
-|  |01|07|'Estatística - O que é, para que serve, como funciona , para que serve, como funciona by Charles Wheelan'|
-|  |01|08|'Estatística Prática para Cientistas de Dados s by Andrew Bruce  Peter Bruce [Bruce, Andrew] '|
-|ok|01|09|'Como mentir com estatística  by Darrell Heff'|
-|  |01|10|'Data Smart - John W. Foreman'|
-|  |01|11|'Data Science do zero'|
-|  |01|12|'Data Science para Negócios  by Tom Fawcett  Foster Provost [Fawcett, Tom] (z-lib.org)'|
-|  |01|13|'PenseEmPython2e'|
-|  |01|14|'Python Fluente by Luciano Ramalho '|
+|ok|01|02|'Storytelling com Dados by Cole Nussbaumer Knaflic [Knaflic, Cole Nussbaumer] '|
+|  |01|01|'PenseEmPython2e'|
+|ok|01|03|'Curso Intensivo de Python - Eric Matthes.opf'|
+|  |01|04|'Python Fluente by Luciano Ramalho '|
+|  |01|05|'ProGit by Scott Chacon and Ben Straub'|
+|ok|01|06|'Python para analise de dados - Wes McKinney'|
+|  |01|07|'Álgebra Linear Com Aplicações  by Steven J. Leon'|
+|  |01|08|'Estatística Básica  by P. A. Morettin, W. de O. Bussab'|
+|  |01|09|'Estatística - O que é, para que serve, como funciona , para que serve, como funciona by Charles Wheelan'|
+|  |01|10|'Estatística Prática para Cientistas de Dados s by Andrew Bruce  Peter Bruce [Bruce, Andrew] '|
+|ok|01|11|'Como mentir com estatística  by Darrell Heff'|
+|  |01|12|'Data Smart - John W. Foreman'|
+|  |01|13|'Data Science do zero'|
+|  |01|14|'Data Science para Negócios  by Tom Fawcett  Foster Provost [Fawcett, Tom] (z-lib.org)'|
 |  |01|15|'Ciência de Dados com R Introdução  by Oliveira, Paulo FelipeGuerra, SauloMcDonnell, Robert'|
 |  |01|16|'Big Data Técnicas e tecnologias para extração de valor dos dados  by Rosangela Marquesone'|
 |  |01|17|'Introdução a mineração de dados  by DANIEL GOMES FERRARI,LEANDRO NUNES DE CASTRO SILVA'|
