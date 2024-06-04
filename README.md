@@ -2,6 +2,8 @@
 Foco principal: **Ciência de dados**
 
 ## Sumário
+- [Programa de estudos sobre programação](#programa-de-estudos-sobre-programação)
+  - [Sumário](#sumário)
   - [01. Básico](#01-básico)
   - [02. Banco de dados](#02-banco-de-dados)
   - [03. Programação geral](#03-programação-geral)
@@ -45,12 +47,13 @@ Foco principal: **Ciência de dados**
 ## 03. Programação geral
 |**lido**|**secao**|**seq**|**titulo**|
 |:---:|:---:|:---:|:---|
-|  |03|01|'Python e Django by Ramiro B. da Luz'|
-|  |03|02|[MDN HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)|
-|  |03|03|[MDN CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)|
-|  |03|04|[MDN JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)|
-|  |03|05|[MDN API](https://developer.mozilla.org/pt-BR/docs/Web/API)|
-|  |03|06|[MDN Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)|
+|  |03|01|Web Application Development with Streamlit: Develop and Deploy Secure and Scalable Web Applications to the Cloud Using a Pure Python Framework|
+|  |03|02|'Python e Django by Ramiro B. da Luz'|
+|  |03|03|[MDN HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)|
+|  |03|04|[MDN CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)|
+|  |03|05|[MDN JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)|
+|  |03|06|[MDN API](https://developer.mozilla.org/pt-BR/docs/Web/API)|
+|  |03|07|[MDN Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)|
 
 ## 04. Aprendizagem de máquina
 |**lido**|**secao**|**seq**|**titulo**|
