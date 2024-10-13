@@ -5,3 +5,4 @@ __pycache__/
 *.zip
 *.sqlite*
 PythonAnaliseDados/mymmap
+env/
