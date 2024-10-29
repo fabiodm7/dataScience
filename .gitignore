@@ -6,3 +6,6 @@ __pycache__/
 *.sqlite*
 PythonAnaliseDados/mymmap
 env/
+livros/
+*.pdf
+*.epub
